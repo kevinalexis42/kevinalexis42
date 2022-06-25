@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexis
 - 👀 I’m interested in gain new knowledge in programming
-- 🌱 I’m currently learning python, c++
+- 🌱 I’m currently learning python, c++, HTML5, CSS, JavaScript
 
 
 <!---
